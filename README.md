@@ -39,4 +39,4 @@ val predicted = rd2rModel.test(testData) // RDD[LabeledPoint]
 
 [1] A. Ahmad and G. Brown,
 "Random Projection Random Discretization Ensembles - Ensembles of Linear Multivariate Decision Trees",
-nowledge and Data Engineering, IEEE Transactions on, vol. 26, pp. 1225–1239, May 2014.
+Knowledge and Data Engineering, IEEE Transactions on, vol. 26, pp. 1225–1239, May 2014.
